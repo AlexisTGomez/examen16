@@ -17,3 +17,4 @@ Route::resource('/hotel', HotelController::class);
 
 
 
+
