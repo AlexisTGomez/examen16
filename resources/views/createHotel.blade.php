@@ -23,6 +23,7 @@
                             <label for="tfno">Teléfono</label>
                             <input type="tel" class="form-control" id="tfno" name="tfno" required>
                         </div>
+                        
 
                         <button type="submit" class="btn btn-primary">Crear Hotel</button>
                     </form>
